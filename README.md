@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hi mate 👋
+  This is Sadman
 
 <!--
 **alfishiftss/alfishiftss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=sadmanrahman&label=Profile%20Views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
