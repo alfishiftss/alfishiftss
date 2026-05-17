@@ -7,8 +7,5 @@
 
 ![Dreamscape](CC4D6F6B-999A-4A8A-B98D-A0DCE962FAB4.jpeg)
 
-<p align="center">
-  <img src="dreamscape.png" width="800"/>
-</p>
 
           ## Hi mate, This is Sadman
