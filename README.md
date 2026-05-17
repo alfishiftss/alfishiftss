@@ -7,3 +7,7 @@
 ## A glimpse into my mind 🌌
 
 ![Dreamscape](dreamscape.png)
+
+<p align="center">
+  <img src="dreamscape.png" width="800"/>
+</p>
